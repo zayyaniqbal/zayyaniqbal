@@ -29,8 +29,8 @@ Welcome to my GitHub profile! I'm currently a student in **10th grade (Matricula
 
 I'm always open to connecting with fellow learners, developers, and mentors!
 
-- 📧 Email: [your-email@example.com] (optional)
-- 💼 LinkedIn: [your LinkedIn profile] (optional)
+- 📧 Email: [zayyaniqbal62@gmail.com] (optional)
+
 
 ---
 
