@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Mohammad Zayan
+# Hi there 👋 I'am Muhammad Zayan
 
 Welcome to my GitHub profile! I'm currently a student in **10th grade (Matriculation)**, majoring in **Computer Science**. I'm passionate about learning technology and building projects that help me grow as a developer.
 
